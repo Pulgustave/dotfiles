@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 43700822+Pulgustave@users.noreply.github.com
+	name = gustavo avellaneda
